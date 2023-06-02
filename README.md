@@ -10,3 +10,5 @@ This paper focuses on a multivariate time series forecasting algorithm for air q
 
 ---
 
+For further analysis run the folliwng notebooks independently in sequential orders for comparison analysis
+
